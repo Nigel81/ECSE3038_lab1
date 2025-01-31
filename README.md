@@ -3,3 +3,9 @@ Question 1:
 
    Purpose:
    This code was written to find the value of 3 resistors in parallel.
+
+Question 2: 
+   The function takes a voltage and any lenght list. The function calculates the total resistance in series using a for loop. Then the current through the circuit is found by dividing the voltage by the total current. After that is done, a next for loop is use to find the voltage across each resistor in the list and print it to the terminal. 
+
+   Purpose:
+   To find the voltage across any amount of resistors in series.
